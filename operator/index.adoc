@@ -1,8 +1,0 @@
-= Operator
-:docinfo: shared
-:docinfodir: ../
-:docinfodir: ../common
-
-List of content around the https://github.com/tektoncd/operator[`tektoncd/operator`] component and the general OpenShift Pipelines operator lifecycle.
-
-- xref:troubleshooting.adoc[Troubleshooting]

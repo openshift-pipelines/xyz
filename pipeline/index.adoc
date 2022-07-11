@@ -1,9 +1,0 @@
-= Pipeline
-:docinfo: shared
-:docinfodir: ../
-:docinfodir: ../common
-
-List of content around the https://github.com/tektoncd/pipeline[`tektoncd/pipeline`] component.
-
-- xref:auth.adoc[Authentication practices with Tekton]
-- xref:hardened.doc[Hardened your Pipelines and Tasks]
